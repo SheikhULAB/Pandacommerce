@@ -19,3 +19,22 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+#Subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
